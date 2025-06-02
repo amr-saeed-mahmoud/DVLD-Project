@@ -29,4 +29,5 @@ Driving License Management is a desktop application designed to streamline the e
 ## Contact  
 Amr Saeed  
 Email: amrpr6@gmail.com  
-Phone: 01024378380
+Phone: +20 1024378380
+WhatsApp: +20 1024378380
